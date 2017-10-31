@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="tv_view_weather_info">#FBF7F7</color>
+    <color name="tv_view_weather_date">#FBF7F7</color>
+    <color name="tv_view_top_temp">#FBF7F7</color>
+    <color name="tv_view_line">#FBF7F7</color>
+    <color name="tv_view_bottom_temp">#FBF7F7</color>
+    
+    
+    <color name="tv_future_view_bottom_temp">#000</color>
+    <color name="tv_future_view_top_temp">#000</color>
+
+</resources>

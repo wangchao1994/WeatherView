@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天气</string>
+        <!--  temp / -->
+	<string name="temp_devi">/</string>
+    <string name="action_settings">设置</string>
+    <string name="main_title_name">天气</string>
+    <string name="main_title_open">展开</string>
+    <string name="main_title_close">关闭</string>
+    <string name="ll_future_info">加载失败！点击重试</string>
+    <string name="tv_firstIn_fail_info">请检查网络!</string>
+
+</resources>

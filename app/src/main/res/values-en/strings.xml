@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="hello_world">Hello world!</string>
+        <!--  temp / -->
+	<string name="temp_devi">/</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title_name">Weather</string>
+    <string name="main_title_open">Open</string>
+    <string name="main_title_close">Close</string>
+    <string name="ll_future_info">Fail!Click to Refresh</string>
+	<string name="tv_firstIn_fail_info">Please Check NetWork!</string>
+</resources>

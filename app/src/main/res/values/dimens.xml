@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- weather layout -->
+    <dimen name="main_weather_top_title">28dp</dimen>
+    <dimen name="main_weather_top_tiltle_imageview_height">30dp</dimen>
+    <dimen name="main_weather_top_tiltle_imageview_width">30dp</dimen>
+    <dimen name="main_weather_top_tiltle_imageview_margin_left">10dp</dimen>
+    <dimen name="main_weather_top_tiltle_tv_viewname_margin_left">6dp</dimen>
+    <dimen name="main_weather_top_tiltle_tv_open_margin_left">16dp</dimen>
+    <dimen name="main_weather_rl_weather_main_height">100dp</dimen>
+    <dimen name="main_weather_imageview_main_height">60dp</dimen>
+    <dimen name="main_weather_imageview_main_width">60dp</dimen>
+    <dimen name="main_weather_imageview_main_margin_left">10dp</dimen>
+     <dimen name="main_weather_cityinfo_main_margin_left">10dp</dimen>
+    <dimen name="main_weather_cityname_main_margin_left">10dp</dimen>
+    <dimen name="main_weather_weather_info_main_margin_left">10dp</dimen>
+    <dimen name="main_weather_weather_date_main_margin_left">10dp</dimen>
+    <dimen name="main_weather_ll_temp_main_margin_right">2dp</dimen>
+    <dimen name="main_weather_ll_top_current_temp_main_ll_margin_right">12dp</dimen>
+    <dimen name="main_weather_ll_future_weather_height">100dp</dimen>
+    <dimen name="main_weather_ll_future_weather_margin_left">4dp</dimen>
+    <dimen name="main_weather_ll_future_weather_margin_right">4dp</dimen>
+
+    <!-- weather item -->
+    <dimen name="item_weather_ll_future_imageview_width">40dp</dimen>
+    <dimen name="item_weather_ll_future_imageview_height">40dp</dimen>
+    <dimen name="item_weather_ll_future_ll_margin_left">4dp</dimen>
+    <dimen name="item_weather_ll_future_ll_margin_right">4dp</dimen>
+
+</resources>
